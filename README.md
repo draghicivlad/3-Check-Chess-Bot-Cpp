@@ -1,1 +1,1 @@
-# 3-Check-Chess-Bot-Cpp
+3 Check Chess Bot in C++ using XBoard as UI.
